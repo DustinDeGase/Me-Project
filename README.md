@@ -1,7 +1,7 @@
 # Me-Project
 This is my first project and the first code I've ever wtitten.
 I used Brackets Code Editor to write my first HTML5 with CSS. 
-It's a work in progress and it'll basically nothing more than a personal website.
+It's a work in progress and it's basically nothing more than a personal website.
 
 It starts with <myindex.html> along with <myindex.css> as the home page. 
 I know. I could have named the first file better. The rest are named better.
