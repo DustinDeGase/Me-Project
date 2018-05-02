@@ -1,0 +1,42 @@
+body {
+    background-image: url("swirl_pattern.png");
+}
+p {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    background-color: darkred;
+    height: 100px;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px
+}
+
+.mama {
+    height: 300px;
+    width: 700px;
+    margin-left: 325px;
+    text-align: center;
+    
+}
+
+.center {
+    text-align: center;
+    color: darkred;
+}
+
+.block {
+    height: 50px;
+    background-color: black;
+    margin-top: 20px;
+        
+}

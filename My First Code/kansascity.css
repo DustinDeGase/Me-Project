@@ -1,0 +1,70 @@
+footer {
+    background-color: black;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
+
+.center {
+    text-align: center;
+    color: white;
+    
+}
+
+.heading {
+    background-image: url(image33.html.jpg);
+    height: 560px;
+    text-align: center;
+}
+.main {
+    background-color: black;
+   
+    
+}
+
+.grid {
+    display: grid;
+    height: 2000px;
+    width: 1327px;
+    grid-template: repeat(20, 1fr) / repeat(16, 1fr);
+
+}
+
+.p1 {
+   grid-area: 2 / 6 / span 5 / span 6; 
+      
+}
+
+.p2 {
+    grid-area: 13 / 7 / span 6 / span 4;
+}
+
+.a {
+    grid-area: 2 / 2 / span 5 / span 3;
+    
+}
+
+
+.b {
+    grid-area: 3 / 13 / span 5 / span 3;
+}
+
+
+.c {
+    grid-area: 8 / 4 / span 4 / span 7;
+}
+
+
+.d {
+    grid-area: 9 / 13 / span 4 / span 3;
+}
+
+.e {
+    grid-area: 13 / 2 / span 5 / span 4;
+}
+
+.f {
+    grid-area: 14 / 12 / span 5 / span 3;
+}

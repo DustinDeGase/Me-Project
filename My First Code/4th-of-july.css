@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background-image: url(starring/starring.png)
+}
+
+p {
+    color: white;
+    font-weight: 700;
+}
+
+.center {
+    text-align: center;
+    color: white; 
+    
+}
+
+img {
+    width: 500px;
+    position: relative;
+    margin-left: 400px;
+    margin-bottom: 30px;
+    border: 10px solid black
+}
+
+.head {
+    height: 80px;
+    padding-top: 20px;
+    line-height: 50px;
+    font-size: 60px;
+}
+
+.para {
+    background-color: black;
+    border-radius: 30px;
+    height: 300px;
+    margin-right: 60px;
+    margin-left: 60px;
+    padding: 20px;
+    
+}

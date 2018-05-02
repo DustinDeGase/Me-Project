@@ -1,0 +1,14 @@
+.center {
+    text-align: center;
+    color: white; rgb();
+}
+
+body {
+    background-image: url(pool_table.png)
+}
+
+.grid {
+    height: 800px;
+    display: grid;
+    grid-template: 
+}

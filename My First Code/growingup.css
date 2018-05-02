@@ -1,0 +1,38 @@
+
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    height: 100px;
+    font-size: 80px;
+    font-weight: lighter;
+}
+
+p {  
+    font-family: sans-serif;
+    min-width: 400px;
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+img {
+    
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 525px;
+    
+}
+
+.center {
+    text-align: center;
+    color: white;
+}
+
+.pic {
+    height: 250px;
+}
